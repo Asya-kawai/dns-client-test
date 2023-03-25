@@ -1,0 +1,2 @@
+(test
+ (name dns_client_test))

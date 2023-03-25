@@ -1,0 +1,4 @@
+(executable
+ (public_name dns_client_test)
+ (name main)
+ (libraries dns-client.unix fmt rresult dns_client_test))
